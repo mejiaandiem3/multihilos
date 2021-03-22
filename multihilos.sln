@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multihilos", "multihilos\multihilos.csproj", "{B1331DFC-BFEB-4CAA-81C5-4E782254A1DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1331DFC-BFEB-4CAA-81C5-4E782254A1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1331DFC-BFEB-4CAA-81C5-4E782254A1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1331DFC-BFEB-4CAA-81C5-4E782254A1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1331DFC-BFEB-4CAA-81C5-4E782254A1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1834A7F-82C6-44E8-884B-58A343310F6B}
+	EndGlobalSection
+EndGlobal
